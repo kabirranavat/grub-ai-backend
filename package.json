@@ -1,0 +1,14 @@
+{
+  "name": "grub-ai-backend",
+  "version": "1.0.0",
+  "description": "Serverless backend for Grub AI nutrition app",
+  "main": "api/analyze-meal.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
